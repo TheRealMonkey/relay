@@ -1,5 +1,5 @@
 from grovepi import *
-#reloay on d4
+#relay on d4
 
 pinMode(4,"OUTPUT")
 digitalWrite(4,1)
